@@ -1,0 +1,14 @@
+package:
+  name: cryptographic_acc
+  authors: [
+    "Nikola Tesic"
+  ]
+
+sources:
+  - shapkg.sv             # package, typedefs
+  - ethz_csa.sv           # likely reused logic
+  - MessageExpansion.sv   # submodule
+  - input_handling.sv             # submodule
+  - MainLoop.sv           # top logic
+  - ethz_sha2.sv          # main SHA256 wrapper
+

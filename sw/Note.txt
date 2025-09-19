@@ -1,0 +1,3 @@
+SHA256, SHA256_1 and SHA256_2 are different software implementations for SHA256 used for comparison.
+
+testbencher_croc.c is the testbench to test the accelerator.
