@@ -1,1 +1,2 @@
+*.gds filter=lfs diff=lfs merge=lfs -text
 klayout/croc_chip.gds filter=lfs diff=lfs merge=lfs -text
