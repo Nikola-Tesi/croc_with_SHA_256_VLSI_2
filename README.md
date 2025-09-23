@@ -18,3 +18,5 @@ On the software side, there are a few small modifications. Four C programs are p
 
 As before, the file `openroad/floorplan.tcl` contains the necessary scripts for generating the physical implementation of the design.
 
+The main difference is that you can now find in `klayout` the file `croc_chip.gds`, which shows that some DRC and LVS checks have already been performed.
+
