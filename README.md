@@ -2,7 +2,7 @@
 
 This project is based on Moloch, with a few modifications made to meet the prerequisites of the VLSI 2 course at ETH. Small memories were added to the hardware accelerator containing our names, and the overall chip size was increased (2235 µm × 2235 µm).
 
-The work was carried out in collaboration with another student. With additional time available, we extended the chip development and performed partial LVS and DRC verification. However, due to technical issues, a full verification could not be completed.
+The work was carried out in collaboration with another student. With additional time available, we extended the chip development and performed partial LVS and DRC verification. 
 
 Except for these minor modifications, the rest of the project remains unchanged, and these changes do not affect the results. For further details, please refer to the [Moloch GitHub page](https://github.com/Nikola-Tesi/croc_with_SHA_256).
 
